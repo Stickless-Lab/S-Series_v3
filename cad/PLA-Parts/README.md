@@ -24,5 +24,5 @@ This keeps the ball joint parts aligned correctly for printing.
 ## Notes
 
 * Check the part orientation before printing. Some orientations might be stronger.
-* Add supports if your slicer shows large overhangs.
+* Add supports when needed.
 * Make sure all ball joint pieces stay in their correct positions when loaded.
