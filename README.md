@@ -9,6 +9,9 @@ Even tho I never cared for rc cars this project line still has a special place i
 ### Full Assembly
 
 <img width="1030" height="696" alt="image" src="https://github.com/user-attachments/assets/69726de6-e66b-4bec-841e-d53ae64b96c9" />
+<img width="2048" height="1692" alt="image" src="https://github.com/user-attachments/assets/59ca8336-f53f-449d-be30-f2ecb86ba1ca" />
+<img width="2048" height="2010" alt="image" src="https://github.com/user-attachments/assets/634cddf3-d62b-4377-a0cf-97797fad88b7" />
+<img width="1866" height="2048" alt="image" src="https://github.com/user-attachments/assets/c9e5dc5c-201f-47b9-8bfa-6962c50a3457" />
 
 ### Wiring
 
