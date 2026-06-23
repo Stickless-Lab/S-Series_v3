@@ -23,6 +23,7 @@ Even tho I never cared for rc cars this project line still has a special place i
 * `cad/` - CAD source files, STEP files, and STL files
 * `firmware/` - Firmware source code
 * `BOM.csv` - Bill of materials
+* `assembly_instructions.md` - Instructions on how to assemble the car
 * `images/` - Pretty self explanatory
 
 ## Bill of Materials
